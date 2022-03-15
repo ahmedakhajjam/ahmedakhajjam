@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmedakhajjam
 - 👀 I’m interested in matlab simulink
-- 🌱 I’m currently learning  python end kotlin
+- 🌱 I’m currently learning  python and kotlin
 - 📫 How to reach me: ahmedakhajjam96@gmail.com
 
 <!---
